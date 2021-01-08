@@ -1,0 +1,27 @@
+div {
+border: 5px blue dashed;
+margin-top: 1rem;
+padding-left: 1rem;
+padding-right: 1rem;
+}
+
+.box1{ border-bottom: black dotted;
+    border-right: green dotted;
+    background-color: yellow;
+
+}
+.box2{
+width: 25rem;
+
+}
+.box2 p {
+border: 5px green solid;
+margin:0; 
+}
+
+.box3{background-image:url(http://placekitten.com/200/300);
+height: 25rem;
+}
+img[
+    
+]

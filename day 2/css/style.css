@@ -1,0 +1,57 @@
+ /* my first css*/
+
+ body{
+font-family:Arial, Helvetica, sans-serif;
+
+background-color: rgba(255, 145, 0, 0.897);
+background: lightblue url(http://placepuppy.net/300/300) no-repeat left top;
+height: 300px;
+
+
+ }
+img{
+
+border: 10px solid lightskyblue;
+
+}
+
+h1{
+border: 5px double hotpink;
+}
+
+blockquote{
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+font-size: 3rem;
+font-style:italic; 
+text-align: center;
+
+}
+
+cite{
+    font-size: 2rem;
+}
+
+.bigbold{
+    font-weight: bold;
+    font-size:1.3rem;
+}
+
+.link:link{color:maroon}
+
+.padding{padding: initial;} 
+.text-decoration{text-decoration: none;}
+
+ul a:link{
+    font-weight: bold;
+    text-decoration: underline ;
+}
+a:visited{
+    color:green;
+    font-weight: lighter;
+}
+a:hover{color: purple;
+}
+
+
+#myid{color: #FF6048; }
